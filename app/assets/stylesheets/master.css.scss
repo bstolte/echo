@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Exo+2:400,800);
+
+.navbar {
+  border-radius:0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-default .navbar-brand {
+    color: #a94442;
+    font-family: 'Exo 2', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}

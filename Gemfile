@@ -49,3 +49,6 @@ gem 'bootstrap-sass', '~> 3.3.5'
 
 # sprockets
 gem 'sprockets', '2.11.0'
+
+# add Devist
+gem 'devise'
